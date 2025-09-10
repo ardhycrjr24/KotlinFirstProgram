@@ -1,4 +1,3 @@
-import java.util.Locale
 import java.util.Locale.getDefault
 
 fun main(args: Array<String>) {
