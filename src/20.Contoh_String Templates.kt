@@ -1,4 +1,6 @@
 fun main(args: Array<String>) {
+    //Template ekspresi String diawali dengan tanda dolar ($) diikuti oleh nama variabel yang akan
+    //digabungkan kedalam suatu String.
     val a = 7
     val b = 8
     val c = a + b

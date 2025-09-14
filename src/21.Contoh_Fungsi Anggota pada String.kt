@@ -1,5 +1,5 @@
 import java.util.Locale.getDefault
-
+//Seperti Java String juga merupakan Objek yang memiliki fungsi anggota
 fun main(args: Array<String>) {
     val s = "Rhinopotamus"
     println(s.startsWith("rhin"))

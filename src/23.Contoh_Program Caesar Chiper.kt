@@ -1,4 +1,6 @@
 fun main(args: Array<String>) {
+    //Program ini mengenkripsi sebuah input text String yang diberikan kedalam karakter yang
+    //dinaikan atau diturunkan
     //The Caesar cipher
     // variable initialization
     val s = "blackholesarewheregoddividedbyzero"

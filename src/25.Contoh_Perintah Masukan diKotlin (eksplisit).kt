@@ -1,4 +1,5 @@
 fun main(args: Array<String>) {
+    //menggunakan konversi secara eksplisit
     //Doubler program parsing
     println("Enter a number and I'll double it: ")
     val input = readLine()!!

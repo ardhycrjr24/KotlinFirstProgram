@@ -15,4 +15,10 @@ fun main(args: Array<String>) {
     println("maxInt:" + maxInt)
     println("minLong:" + minLong)
     println("maxLong:" + maxLong)
+
+    //Contoh kode program menggunakan tipe data bilangan decimal (floating-point)
+    val maxFloat: Float = 9.123456789f
+    val maxDouble: Double = 9.123456789
+    println("maxFloat:" + maxFloat)
+    println("maxDouble:" + maxDouble)
 }

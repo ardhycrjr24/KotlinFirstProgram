@@ -1,4 +1,6 @@
 fun main(args: Array<String>) {
+    //** membaca atau mengkonversi sebuah input text String berbentuk sandi Morse
+    // kedalam plain teks
     // split() and joinToString()
     // Morse code decoder
     // the string which we want to decode
